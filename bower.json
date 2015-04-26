@@ -1,0 +1,26 @@
+{
+  "name": "swapp",
+  "version": "1.0.0",
+  "authors": [
+    "tomscreen <tomscreen@msn.com>"
+  ],
+  "description": "Switchboard App",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tomscreen/swapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15",
+    "angular-route": "~1.3.15",
+    "bootstrap": "~3.3.4"
+  }
+}
